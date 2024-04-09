@@ -16,33 +16,33 @@
             <div class="row">
               <div class="col-sm-6 form-group ">
                 <label for="" class="control-label">Street/Building</label>
-                <textarea name="street" id="" cols="30" rows="2" class="form-control"><?php echo isset($street) ? $street : '' ?></textarea>
+                <textarea name="street" id="" cols="30" rows="1" class="form-control"><?php echo isset($street) ? $street : '' ?></textarea>
               </div>
               <div class="col-sm-6 form-group ">
                 <label for="" class="control-label">City</label>
-                <textarea name="city" id="" cols="30" rows="2" class="form-control"><?php echo isset($city) ? $city : '' ?></textarea>
+                <textarea name="city" id="" cols="30" rows="1" class="form-control"><?php echo isset($city) ? $city : '' ?></textarea>
               </div>
             </div>
 
             <div class="row">
               <div class="col-sm-6 form-group ">
                 <label for="" class="control-label">State</label>
-                <textarea name="state" id="" cols="30" rows="2" class="form-control"><?php echo isset($state) ? $state : '' ?></textarea>
+                <textarea name="state" id="" cols="30" rows="1" class="form-control"><?php echo isset($state) ? $state : '' ?></textarea>
               </div>
               <div class="col-sm-6 form-group ">
                 <label for="" class="control-label">Zip Code/ Postal Code</label>
-                <textarea name="zip_code" id="" cols="30" rows="2" class="form-control"><?php echo isset($zip_code) ? $zip_code : '' ?></textarea>
+                <textarea name="zip_code" id="" cols="30" rows="1" class="form-control"><?php echo isset($zip_code) ? $zip_code : '' ?></textarea>
               </div>
             </div>
 
             <div class="row">
               <div class="col-sm-6 form-group ">
                 <label for="" class="control-label">Country</label>
-                <textarea name="country" id="" cols="30" rows="2" class="form-control"><?php echo isset($country) ? $country : '' ?></textarea>
+                <textarea name="country" id="" cols="30" rows="1" class="form-control"><?php echo isset($country) ? $country : '' ?></textarea>
               </div>
               <div class="col-sm-6 form-group ">
                 <label for="" class="control-label">Contact #</label>
-                <textarea name="contact" id="" cols="30" rows="2" class="form-control"><?php echo isset($contact) ? $contact : '' ?></textarea>
+                <textarea name="contact" id="" cols="30" rows="1" class="form-control"><?php echo isset($contact) ? $contact : '' ?></textarea>
               </div>
             </div>
 

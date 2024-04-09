@@ -37,9 +37,6 @@
                 <?php endwhile; ?>
                 </select>
               </div>
-            </div>
-
-            <div class="row">
               <div class="col-sm-6 form-group ">
                 <label for="" class="control-label">Email</label>
                 <input type="email" name="email" id="" class="form-control form-control-sm" value="<?php echo isset($email) ? $email : '' ?>" required>

@@ -20,12 +20,6 @@ if($action == 'logout'){
 	if($logout)
 		echo $logout;
 }
-if($action == 'logout2'){
-	$logout = $crud->logout2();
-	if($logout)
-		echo $logout;
-}
-
 if($action == 'signup'){
 	$save = $crud->signup();
 	if($save)
